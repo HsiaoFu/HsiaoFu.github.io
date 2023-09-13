@@ -1,0 +1,36 @@
+#nav {
+    width: 100px;
+    background-color:rgb(151, 174, 244);
+    float:left;
+}
+
+#banner {
+    width: 800px;
+    height: 200px;
+    background-color: rgb(253, 240, 255);
+    clear:both; 
+}
+
+#content {
+    width: 600px;
+    float:right;
+    clear:both; 
+}
+
+#footer {
+    width: 800px;
+    height: 100px;
+    background-color: coral;
+    float:left;
+}
+
+#supporting {
+    width: 100px;
+    background-color: rgb(26, 218, 71);
+    clear:both; 
+    float:right;
+}
+#wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
